@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "3f640470-f3b3-462c-bdd6-641d04c5e196",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3001/employeeadd",
+    "url": "http://localhost:3001/employeeadd",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-12-26T09:11:12.913Z",
+    "modified": "2022-12-26T09:37:00.450Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n      \"firstname\":\"diya\",\n        \"lastname\":\" g\",\n        \"birthdate\":29,\n        \"gender\": \"f\",\n       \" education\":\"10\",\n       \" company\": \"tcs\",\n        \"jobExperience\":5,\n        \"salary\":5\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "e15e3058-a2ff-4e23-bb3f-4fcfb66e4bf8",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3001/employee",
+    "url": "http://localhost:3001/employee",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-12-27T09:32:08.732Z",
+    "modified": "2022-12-27T09:32:08.732Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n      \"firstname\":\"diya\",\n        \"lastname\":\" g\",\n        \"birthdate\":29,\n        \"gender\": \"f\",\n       \" education\":\"10\",\n       \" company\": \"tcs\",\n        \"jobExperience\":5,\n        \"salary\":5\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "196adf98-609c-4140-8140-13958170e6f4",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3001/login",
+    "url": "http://localhost:3001/login",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-01-03T13:03:56.798Z",
+    "modified": "2023-01-03T13:04:24.176Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"id\":1111,\n  \"pswd\":1111\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
